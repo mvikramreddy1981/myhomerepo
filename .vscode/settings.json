@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/19b19c25-58e1-4468-b109-6ecc05aa0eba/resourceGroups/Learn/providers/Microsoft.Web/sites/AzureLearningApp"
+}

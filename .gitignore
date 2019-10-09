@@ -40,7 +40,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 node_modules
-lib
 
 # End of https://www.gitignore.io/api/visualstudiocode,windows
 

@@ -34,6 +34,7 @@ app.get('/search', function (req, res){
     res.send("the searched number " + searchNum + " in " + numbers + " is at (last) index " + numIndex);
 });
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+var port = process.env.port || 3000;
+app.listen(port, function () {
+  console.log('Example app listening on port ' + port);
 });
