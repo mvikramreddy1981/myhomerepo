@@ -1,2 +1,1 @@
-# myhomerepo
-Personal repo
+[![Build Status](https://dev.azure.com/vimugala/Learn/_apis/build/status/Learn%20(2)?branchName=master)](https://dev.azure.com/vimugala/Learn/_build/latest?definitionId=3&branchName=master)
